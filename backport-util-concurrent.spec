@@ -121,3 +121,11 @@ rm -rf $RPM_BUILD_ROOT
 %{_javadocdir}/%{name}-%{version}
 %doc %{_javadocdir}/%{name}
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 3.1-7
++ Revision: 733853
+- rebuild
+- imported package backport-util-concurrent
+

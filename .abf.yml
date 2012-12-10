@@ -1,3 +1,2 @@
 sources:
-  "backport-util-concurrent-3.1.pom:"	24aa8f29c14d1c63225caa6ad5328f1f7a2497a8
-  "backport-util-concurrent-3.1-src.tar.gz:"	efc1d6501d3c3d5f2cf40e265804cdd2ad9eae0b
+  "backport-util-concurrent-3.1-src.tar.gz": efc1d6501d3c3d5f2cf40e265804cdd2ad9eae0b
