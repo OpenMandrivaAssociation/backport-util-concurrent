@@ -31,7 +31,7 @@
 Name:		backport-util-concurrent
 Summary:	Backport of java.util.concurrent API, introduced in Java 5.0
 Version:	3.1
-Release:	7
+Release:	8
 URL:		http://backport-jsr166.sourceforge.net
 License:	Public Domain
 Group:		Development/Java
